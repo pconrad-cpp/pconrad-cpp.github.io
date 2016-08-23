@@ -14,7 +14,7 @@ The materials are primarily for use in four courses taught by [Phill Conrad](htt
 in the [Dept. of Computer Science](http://www.cs.ucsb.edu) at
 [UC Santa Barbara](http://www.ucsb.edu), namely
 [CMPSC&nbsp;16](http://www.cs.ucsb.edu/education/courses/cmpsc-16)
-[CMPSC&nbsp;24](http://www.cs.ucsb.edu/education/courses/cmpsc-24)
+[CMPSC&nbsp;24](http://www.cs.ucsb.edu/education/courses/cmpsc-24-0)
 [CMPSC&nbsp;32](http://www.cs.ucsb.edu/education/courses/cmpsc-32)
 and&nbsp;[CMPTGCS&1A](https://ccs.ucsb.edu/courses/computer-programming-and-organization-1-0)
 
