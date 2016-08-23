@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 _site/
 .sass-cache/
 .jekyll-metadata
+=======
+*.mw
+*~
+.bundle
+vendor
+_site/
+.sass-cache/
+.jekyll-metadata
+
+.DS_Store
+>>>>>>> ac2f08ba74c4820ef413936b58f33468e7477443

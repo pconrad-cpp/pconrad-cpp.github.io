@@ -1,0 +1,46 @@
+title: "pconrad-cpp"
+github_url: https://github.com/pconrad-cpp/pconrad-cpp.github.io
+mentor_url: https://ucsb-cs56-pconrad-mentors.github.io
+github_repo: pconrad-cpp.github.io
+
+on_campus: http://proquest.safaribooksonline.com
+off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048/
+
+#kramdown:
+#  parse_block_html: true
+
+exclude: ['vendor', 'setup.sh', 'jekyll.sh']
+
+timezone: America/Los_Angeles
+
+collections:
+  topics:
+    output: true
+    permalink: /topics/:path/
+
+  textbooks:
+    output: true
+    permalink: /textbooks/:path/
+
+  resources:
+    output: true
+    permalink: /resources/:path/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+  - scope:
+      path: ""
+      type: topics
+    values:
+      layout: topic
+
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: topic
