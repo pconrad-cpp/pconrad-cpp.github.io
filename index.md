@@ -1,19 +1,22 @@
 ---
-title: UCSB CS56 pconrad
+title: "pconrad's C++ site"
 ---
 
-# CS56&mdash;Advanced Applications Programming
+# C++ Resources for CMPSC 16, 24, 32 and CMPTGCS 1A
 
 <div id="about" data-role="collapsible" data-collapsed="false" markdown="1">
-<h2>About this course</h2>
+<h2>About this site</h2>
 
-A course taught by [Phill Conrad](http://www.cs.ucsb.edu/~pconrad)
+This sites contains various resources and materials for students and educators to help with
+learning Computer Science concepts through C++ programming.
+
+The materials are primarily for use in four courses taught by [Phill Conrad](http://www.cs.ucsb.edu/~pconrad)
 in the [Dept. of Computer Science](http://www.cs.ucsb.edu) at
-[UC Santa Barbara](http://www.ucsb.edu)
-
-Older materials can be found at the [56wiki](https://foo.cs.ucsb.edu/56wiki) site.
-
-This site is maintained in this github repo: <https://github.com/UCSB-CS56-pconrad/UCSB-CS56-pconrad.github.io>
+[UC Santa Barbara](http://www.ucsb.edu), namely
+[CMPSC&nbsp;16](http://www.cs.ucsb.edu/education/courses/cmpsc-16)
+[CMPSC&nbsp;24](http://www.cs.ucsb.edu/education/courses/cmpsc-24)
+[CMPSC&nbsp;32](http://www.cs.ucsb.edu/education/courses/cmpsc-32)
+and&nbsp;[CMPTGCS&1A](https://ccs.ucsb.edu/courses/computer-programming-and-organization-1-0)
 
 </div><!-- about -->
 
